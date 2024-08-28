@@ -2,6 +2,8 @@
 """
 Task for interview preparation: lockboxes algorithm
 """
+
+
 def canUnlockAll(boxes):
 
     # if the first box is empty
